@@ -1,0 +1,11 @@
+# --- Environment and Secrets ---
+venv/
+.env
+
+# --- Python ---
+_pycache__/
+*.py[cod]
+
+# --- [OS Specific] System Junk Files ---
+.DS_Store
+Thumbs.db
